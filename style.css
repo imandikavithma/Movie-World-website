@@ -35,11 +35,25 @@ li a:hover:not(.active) {
 
 th{color: azure;
     font-size: 30px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
     
-      td{color: white;
+td{color: white;
     font-size: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
 
 
 img{float: right}
+
+footer{text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    padding: 3px;
+    background-color: gold;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;}
+    
