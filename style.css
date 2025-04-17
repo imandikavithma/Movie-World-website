@@ -46,6 +46,33 @@ td{color: white;
 
 img{float: right}
 
+img#y {float: left}
+
+h3{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+h1#A{text-align: center;
+    color: #c40404}
+
+td.Z{color: aliceblue;
+        text-align: justify;
+        font-size: 20px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    }
+
+button{
+        background-color:red; /* red*/
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        cursor:pointer
+    }
+
+p#w{color:black}
+
 footer{text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 10px;
@@ -56,4 +83,12 @@ footer{text-align: center;
     bottom: 0;
     left: 0;
     width: 100%;}
+
+
+
+
+
+
+
+
     
