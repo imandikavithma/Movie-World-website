@@ -46,17 +46,6 @@ td{color: white;
 
 img{float: right}
 
-footer{text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 10px;
-    padding: 3px;
-    background-color: gold;
-    color: black;
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;}
-
 img#y {float: left}
 
 h3{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
@@ -83,6 +72,19 @@ button{
     }
 
 p#w{color:black}
+
+footer{text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+    padding: 3px;
+    background-color: gold;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;}
+
+
 
 
 
